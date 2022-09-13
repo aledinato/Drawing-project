@@ -1,0 +1,145 @@
+\\Mac\Home\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\bin\Debug\net5.0-windows\ProgettoCad.exe
+\\Mac\Home\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\bin\Debug\net5.0-windows\ProgettoCad.deps.json
+\\Mac\Home\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\bin\Debug\net5.0-windows\ProgettoCad.runtimeconfig.json
+\\Mac\Home\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\bin\Debug\net5.0-windows\ProgettoCad.runtimeconfig.dev.json
+\\Mac\Home\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\bin\Debug\net5.0-windows\ProgettoCad.dll
+\\Mac\Home\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\bin\Debug\net5.0-windows\ref\ProgettoCad.dll
+\\Mac\Home\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\bin\Debug\net5.0-windows\ProgettoCad.pdb
+\\Mac\Home\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.Form1.resources
+\\Mac\Home\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.AssemblyInfo.cs
+\\Mac\Home\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.dll
+\\Mac\Home\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ref\ProgettoCad.dll
+\\Mac\Home\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.pdb
+\\Mac\Home\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.genruntimeconfig.cache
+C:\Users\Alessandro Dinato\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\ProgettoCad\bin\Debug\net5.0-windows\ProgettoCad.exe
+C:\Users\Alessandro Dinato\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\ProgettoCad\bin\Debug\net5.0-windows\ProgettoCad.deps.json
+C:\Users\Alessandro Dinato\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\ProgettoCad\bin\Debug\net5.0-windows\ProgettoCad.runtimeconfig.json
+C:\Users\Alessandro Dinato\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\ProgettoCad\bin\Debug\net5.0-windows\ProgettoCad.runtimeconfig.dev.json
+C:\Users\Alessandro Dinato\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\ProgettoCad\bin\Debug\net5.0-windows\ProgettoCad.dll
+C:\Users\Alessandro Dinato\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\ProgettoCad\bin\Debug\net5.0-windows\ref\ProgettoCad.dll
+C:\Users\Alessandro Dinato\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\ProgettoCad\bin\Debug\net5.0-windows\ProgettoCad.pdb
+C:\Users\Alessandro Dinato\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.csproj.AssemblyReference.cache
+C:\Users\Alessandro Dinato\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.Form1.resources
+C:\Users\Alessandro Dinato\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.Properties.Resources.resources
+C:\Users\Alessandro Dinato\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.csproj.GenerateResource.cache
+C:\Users\Alessandro Dinato\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alessandro Dinato\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.AssemblyInfoInputs.cache
+C:\Users\Alessandro Dinato\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.AssemblyInfo.cs
+C:\Users\Alessandro Dinato\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.csproj.CoreCompileInputs.cache
+C:\Users\Alessandro Dinato\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.dll
+C:\Users\Alessandro Dinato\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ref\ProgettoCad.dll
+C:\Users\Alessandro Dinato\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.pdb
+C:\Users\Alessandro Dinato\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.genruntimeconfig.cache
+\\Mac\Home\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.Properties.Resources.resources
+\\Mac\Home\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\ProgettoCad\bin\Debug\net5.0-windows\ProgettoCad.exe
+\\Mac\Home\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\ProgettoCad\bin\Debug\net5.0-windows\ProgettoCad.deps.json
+\\Mac\Home\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\ProgettoCad\bin\Debug\net5.0-windows\ProgettoCad.runtimeconfig.json
+\\Mac\Home\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\ProgettoCad\bin\Debug\net5.0-windows\ProgettoCad.runtimeconfig.dev.json
+\\Mac\Home\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\ProgettoCad\bin\Debug\net5.0-windows\ProgettoCad.dll
+\\Mac\Home\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\ProgettoCad\bin\Debug\net5.0-windows\ref\ProgettoCad.dll
+\\Mac\Home\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\ProgettoCad\bin\Debug\net5.0-windows\ProgettoCad.pdb
+\\Mac\Home\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.Form1.resources
+\\Mac\Home\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.Properties.Resources.resources
+\\Mac\Home\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.AssemblyInfo.cs
+\\Mac\Home\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.dll
+\\Mac\Home\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ref\ProgettoCad.dll
+\\Mac\Home\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.pdb
+\\Mac\Home\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.genruntimeconfig.cache
+\\Mac\Home\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\ProgettoCad\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+\\Mac\Home\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.csproj.CopyComplete
+C:\Users\Alessandro Dinato\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\bin\Debug\net5.0-windows\ProgettoCad.exe
+C:\Users\Alessandro Dinato\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\bin\Debug\net5.0-windows\ProgettoCad.deps.json
+C:\Users\Alessandro Dinato\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\bin\Debug\net5.0-windows\ProgettoCad.runtimeconfig.json
+C:\Users\Alessandro Dinato\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\bin\Debug\net5.0-windows\ProgettoCad.runtimeconfig.dev.json
+C:\Users\Alessandro Dinato\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\bin\Debug\net5.0-windows\ProgettoCad.dll
+C:\Users\Alessandro Dinato\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\bin\Debug\net5.0-windows\ref\ProgettoCad.dll
+C:\Users\Alessandro Dinato\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\bin\Debug\net5.0-windows\ProgettoCad.pdb
+C:\Users\Alessandro Dinato\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\Alessandro Dinato\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.csproj.AssemblyReference.cache
+C:\Users\Alessandro Dinato\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.Form1.resources
+C:\Users\Alessandro Dinato\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.Properties.Resources.resources
+C:\Users\Alessandro Dinato\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.csproj.GenerateResource.cache
+C:\Users\Alessandro Dinato\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alessandro Dinato\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.AssemblyInfoInputs.cache
+C:\Users\Alessandro Dinato\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.AssemblyInfo.cs
+C:\Users\Alessandro Dinato\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.csproj.CoreCompileInputs.cache
+C:\Users\Alessandro Dinato\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.dll
+C:\Users\Alessandro Dinato\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ref\ProgettoCad.dll
+C:\Users\Alessandro Dinato\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.pdb
+C:\Users\Alessandro Dinato\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.genruntimeconfig.cache
+\\Mac\Home\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+\\Mac\Home\Desktop\scuola\informatica\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.csproj.CopyComplete
+C:\Users\Alessandro Dinato\iCloudDrive\scuola\informatica\ProgettoCad\ProgettoCad\bin\Debug\net5.0-windows\ProgettoCad.exe
+C:\Users\Alessandro Dinato\iCloudDrive\scuola\informatica\ProgettoCad\ProgettoCad\bin\Debug\net5.0-windows\ProgettoCad.deps.json
+C:\Users\Alessandro Dinato\iCloudDrive\scuola\informatica\ProgettoCad\ProgettoCad\bin\Debug\net5.0-windows\ProgettoCad.runtimeconfig.json
+C:\Users\Alessandro Dinato\iCloudDrive\scuola\informatica\ProgettoCad\ProgettoCad\bin\Debug\net5.0-windows\ProgettoCad.runtimeconfig.dev.json
+C:\Users\Alessandro Dinato\iCloudDrive\scuola\informatica\ProgettoCad\ProgettoCad\bin\Debug\net5.0-windows\ProgettoCad.dll
+C:\Users\Alessandro Dinato\iCloudDrive\scuola\informatica\ProgettoCad\ProgettoCad\bin\Debug\net5.0-windows\ref\ProgettoCad.dll
+C:\Users\Alessandro Dinato\iCloudDrive\scuola\informatica\ProgettoCad\ProgettoCad\bin\Debug\net5.0-windows\ProgettoCad.pdb
+C:\Users\Alessandro Dinato\iCloudDrive\scuola\informatica\ProgettoCad\ProgettoCad\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\Alessandro Dinato\iCloudDrive\scuola\informatica\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.Form1.resources
+C:\Users\Alessandro Dinato\iCloudDrive\scuola\informatica\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.Properties.Resources.resources
+C:\Users\Alessandro Dinato\iCloudDrive\scuola\informatica\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.csproj.GenerateResource.cache
+C:\Users\Alessandro Dinato\iCloudDrive\scuola\informatica\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alessandro Dinato\iCloudDrive\scuola\informatica\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.AssemblyInfoInputs.cache
+C:\Users\Alessandro Dinato\iCloudDrive\scuola\informatica\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.AssemblyInfo.cs
+C:\Users\Alessandro Dinato\iCloudDrive\scuola\informatica\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.csproj.CoreCompileInputs.cache
+C:\Users\Alessandro Dinato\iCloudDrive\scuola\informatica\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.dll
+C:\Users\Alessandro Dinato\iCloudDrive\scuola\informatica\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ref\ProgettoCad.dll
+C:\Users\Alessandro Dinato\iCloudDrive\scuola\informatica\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.pdb
+C:\Users\Alessandro Dinato\iCloudDrive\scuola\informatica\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.genruntimeconfig.cache
+\\Mac\iCloud\scuola\informatica\ProgettoCad\ProgettoCad\bin\Debug\net5.0-windows\ProgettoCad.exe
+\\Mac\iCloud\scuola\informatica\ProgettoCad\ProgettoCad\bin\Debug\net5.0-windows\ProgettoCad.deps.json
+\\Mac\iCloud\scuola\informatica\ProgettoCad\ProgettoCad\bin\Debug\net5.0-windows\ProgettoCad.runtimeconfig.json
+\\Mac\iCloud\scuola\informatica\ProgettoCad\ProgettoCad\bin\Debug\net5.0-windows\ProgettoCad.runtimeconfig.dev.json
+\\Mac\iCloud\scuola\informatica\ProgettoCad\ProgettoCad\bin\Debug\net5.0-windows\ProgettoCad.dll
+\\Mac\iCloud\scuola\informatica\ProgettoCad\ProgettoCad\bin\Debug\net5.0-windows\ref\ProgettoCad.dll
+\\Mac\iCloud\scuola\informatica\ProgettoCad\ProgettoCad\bin\Debug\net5.0-windows\ProgettoCad.pdb
+\\Mac\iCloud\scuola\informatica\ProgettoCad\ProgettoCad\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+\\Mac\iCloud\scuola\informatica\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.Form1.resources
+\\Mac\iCloud\scuola\informatica\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.Properties.Resources.resources
+\\Mac\iCloud\scuola\informatica\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.csproj.GenerateResource.cache
+\\Mac\iCloud\scuola\informatica\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\iCloud\scuola\informatica\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.AssemblyInfoInputs.cache
+\\Mac\iCloud\scuola\informatica\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.AssemblyInfo.cs
+\\Mac\iCloud\scuola\informatica\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.csproj.CoreCompileInputs.cache
+\\Mac\iCloud\scuola\informatica\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.dll
+\\Mac\iCloud\scuola\informatica\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ref\ProgettoCad.dll
+\\Mac\iCloud\scuola\informatica\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.pdb
+\\Mac\iCloud\scuola\informatica\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.genruntimeconfig.cache
+\\Mac\Home\Library\Mobile Documents\com~apple~CloudDocs\scuola\informatica\ProgettoCad\ProgettoCad\bin\Debug\net5.0-windows\ProgettoCad.exe
+\\Mac\Home\Library\Mobile Documents\com~apple~CloudDocs\scuola\informatica\ProgettoCad\ProgettoCad\bin\Debug\net5.0-windows\ProgettoCad.deps.json
+\\Mac\Home\Library\Mobile Documents\com~apple~CloudDocs\scuola\informatica\ProgettoCad\ProgettoCad\bin\Debug\net5.0-windows\ProgettoCad.runtimeconfig.json
+\\Mac\Home\Library\Mobile Documents\com~apple~CloudDocs\scuola\informatica\ProgettoCad\ProgettoCad\bin\Debug\net5.0-windows\ProgettoCad.runtimeconfig.dev.json
+\\Mac\Home\Library\Mobile Documents\com~apple~CloudDocs\scuola\informatica\ProgettoCad\ProgettoCad\bin\Debug\net5.0-windows\ProgettoCad.dll
+\\Mac\Home\Library\Mobile Documents\com~apple~CloudDocs\scuola\informatica\ProgettoCad\ProgettoCad\bin\Debug\net5.0-windows\ref\ProgettoCad.dll
+\\Mac\Home\Library\Mobile Documents\com~apple~CloudDocs\scuola\informatica\ProgettoCad\ProgettoCad\bin\Debug\net5.0-windows\ProgettoCad.pdb
+\\Mac\Home\Library\Mobile Documents\com~apple~CloudDocs\scuola\informatica\ProgettoCad\ProgettoCad\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+\\Mac\Home\Library\Mobile Documents\com~apple~CloudDocs\scuola\informatica\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.csproj.AssemblyReference.cache
+\\Mac\Home\Library\Mobile Documents\com~apple~CloudDocs\scuola\informatica\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.Form1.resources
+\\Mac\Home\Library\Mobile Documents\com~apple~CloudDocs\scuola\informatica\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.Properties.Resources.resources
+\\Mac\Home\Library\Mobile Documents\com~apple~CloudDocs\scuola\informatica\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.csproj.GenerateResource.cache
+\\Mac\Home\Library\Mobile Documents\com~apple~CloudDocs\scuola\informatica\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Library\Mobile Documents\com~apple~CloudDocs\scuola\informatica\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.AssemblyInfoInputs.cache
+\\Mac\Home\Library\Mobile Documents\com~apple~CloudDocs\scuola\informatica\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.AssemblyInfo.cs
+\\Mac\Home\Library\Mobile Documents\com~apple~CloudDocs\scuola\informatica\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.csproj.CoreCompileInputs.cache
+\\Mac\Home\Library\Mobile Documents\com~apple~CloudDocs\scuola\informatica\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.csproj.CopyComplete
+\\Mac\Home\Library\Mobile Documents\com~apple~CloudDocs\scuola\informatica\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.dll
+\\Mac\Home\Library\Mobile Documents\com~apple~CloudDocs\scuola\informatica\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ref\ProgettoCad.dll
+\\Mac\Home\Library\Mobile Documents\com~apple~CloudDocs\scuola\informatica\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.pdb
+\\Mac\Home\Library\Mobile Documents\com~apple~CloudDocs\scuola\informatica\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.genruntimeconfig.cache
+\\.psf\Home\Library\Mobile Documents\com~apple~CloudDocs\scuola\informatica\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.dll
+\\.psf\Home\Library\Mobile Documents\com~apple~CloudDocs\scuola\informatica\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ref\ProgettoCad.dll
+\\.psf\Home\Library\Mobile Documents\com~apple~CloudDocs\scuola\informatica\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.pdb
+C:\Users\Alessandro Dinato\iCloudDrive\scuola\informatica\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.csproj.AssemblyReference.cache
+\\Mac\iCloud\scuola\informatica\ProgettoCad\ProgettoCad\obj\Debug\net5.0-windows\ProgettoCad.csproj.AssemblyReference.cache
